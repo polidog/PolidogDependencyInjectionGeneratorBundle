@@ -1,5 +1,6 @@
 {
     "name": "polidog/dependency-injection-generator-bundle",
+    "license":"MIT",
     "authors": [
         {
             "name": "polidog",

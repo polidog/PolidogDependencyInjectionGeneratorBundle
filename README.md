@@ -29,7 +29,7 @@ $ composer require polidog/dependency-injection-generator-bundle
 ## Usage
 
 ```
-$ app/console generate:bundle:dependency_inject_dir --namespace=Polidog/HogeBundle --format=yaml
+$ app/console generate:bundle:dependency-inject --namespace=Polidog/HogeBundle --format=yaml
 ```
 
 

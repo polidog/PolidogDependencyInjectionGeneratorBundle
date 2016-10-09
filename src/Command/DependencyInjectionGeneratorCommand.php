@@ -21,7 +21,7 @@ class DependencyInjectionGeneratorCommand extends GeneratorCommand
     protected function configure()
     {
         $this
-            ->setName('generate:bundle:dependency_inject_dir')
+            ->setName('generate:bundle:dependency-inject')
             ->setDescription('Generates a DependencyInject directory and files')
             ->setDefinition([
                 new InputOption('namespace', '', InputOption::VALUE_REQUIRED, 'The namespace of the bundle to create'),
